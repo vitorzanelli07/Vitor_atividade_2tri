@@ -24,8 +24,7 @@ background-color: aliceblue;
     
     }
 
-    .p3
-    {text-align: center;
+    .p3{text-align: center;
         font-size: 200%;
         color:orange; 
         border-color: aqua;
@@ -38,14 +37,14 @@ background-color: aliceblue;
         }
 
         .p4{text-align: center;
-            font-size: 200%;
-            color:salmon; 
+            font-size: 100%;
+            color:azure; 
             border-color: blue;
             border-width: 6px;
             border-style: ridge; 
-            margin-left: 10%;
-            margin-right: 60%;
-            background-color: magenta;
+            margin-left: 30%;
+            margin-right: 30%;
+            background-color: yellow;
             
             }
         
