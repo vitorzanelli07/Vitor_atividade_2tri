@@ -1,0 +1,54 @@
+body {background-color: aquamarine;}
+
+.p1{text-align: center;
+font-size: 200%;
+color:brown; 
+border-color: red;
+border-width: 6px;
+border-style: ridge; 
+margin-left: 20%;
+margin-right: 20%;
+background-color: aliceblue;
+
+}
+
+.p2{text-align: center;
+    font-size: 200%;
+    color:yellowgreen; 
+    border-color: red;
+    border-width: 6px;
+    border-style: ridge; 
+    margin-left: 60%;
+    margin-right: 10%;
+    background-color: aliceblue;
+    
+    }
+
+    .p3
+    {text-align: center;
+        font-size: 200%;
+        color:orange; 
+        border-color: aqua;
+        border-width: 6px;
+        border-style: ridge; 
+        margin-left: 10%;
+        margin-right: 60%;
+        background-color: red;
+        
+        }
+
+        .p4{text-align: center;
+            font-size: 200%;
+            color:salmon; 
+            border-color: blue;
+            border-width: 6px;
+            border-style: ridge; 
+            margin-left: 10%;
+            margin-right: 60%;
+            background-color: magenta;
+            
+            }
+        
+    
+
+
