@@ -1,13 +1,13 @@
-body {background-color:darkblue;}
+body {background-color:rgb(0, 0, 0);}
 
 .p1{text-align: center;
-font-size: 500%;
+font-size: 300%;
 color:rgb(248, 232, 5); 
-border-color: rgb(200, 255, 0);
+border-color: rgb(255, 60, 0);
 border-width: 6px;
 border-style: ridge; 
-margin-left: 50%;
-margin-right: 50%;
+margin-left: 30%;
+margin-right: 30%;
 background-color: rgb(0, 0, 0);
 
 }
