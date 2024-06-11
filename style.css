@@ -1,3 +1,7 @@
+@media screen and (min-width: 800px){
+    body {background-color: rgb(0, 153, 145);
+    }
+}
 body {background-color:rgb(163, 0, 0);}
 
 .p1{text-align: center;
@@ -44,9 +48,10 @@ margin-bottom: 10%;
             border-color: rgb(238, 255, 7);
             border-width: 6px;
             border-style: groove; 
-            margin-left: 70%;
-            margin-right: 5%;
+            margin-left: 20%;
+            margin-right: 60%;
             background-color: rgb(0, 0, 0);
+            margin-top: 5%;
             
             }
 
@@ -56,8 +61,8 @@ margin-bottom: 10%;
                 border-color: aqua;
                 border-width: 6px;
                 border-style: groove; 
-                margin-left: 5%;
-                margin-right: 70%;
+                margin-left: 60%;
+                margin-right:20%;
                 background-color: rgb(0, 0, 0);
                 margin-top: 5%;
                 
@@ -69,9 +74,10 @@ margin-bottom: 10%;
                     border-color: rgb(238, 255, 7);
                     border-width: 6px;
                     border-style: groove; 
-                    margin-left: 70%;
-                    margin-right: 5%;
+                    margin-left: 20%;
+                    margin-right: 60%;
                     background-color: rgb(0, 0, 0);
+                    margin-top: 5%;
                     
                     }
 
@@ -81,8 +87,8 @@ margin-bottom: 10%;
                         border-color: aqua;
                         border-width: 6px;
                         border-style: groove; 
-                        margin-left: 5%;
-                        margin-right: 70%;
+                        margin-left: 60%;
+                        margin-right: 20%;
                         background-color: rgb(0, 0, 0);
                         margin-top: 5%;
                         
@@ -94,21 +100,22 @@ margin-bottom: 10%;
                             border-color: rgb(238, 255, 7);
                             border-width: 6px;
                             border-style: groove; 
-                            margin-left: 70%;
-                            margin-right: 5%;
+                            margin-left: 20%;
+                            margin-right: 60%;
                             background-color: rgb(0, 0, 0);
+                            margin-top: 5%;
                             
                             }
 
                             .p9{
                                 font-size: 200%;
-                                color:orange; 
-                                border-color: aqua;
+                                color:rgb(2, 106, 167); 
+                                border-color: rgb(255, 125, 4);
                                 border-width: 6px;
                                 border-style: groove; 
-                                margin-left: 5%;
-                                margin-right: 70%;
-                                background-color: rgb(0, 0, 0);
+                                margin-left: 60%;
+                                margin-right: 20%;
+                                background-color: rgb(204, 102, 102);
                                 margin-top: 5%;
                                 }
 
@@ -118,9 +125,10 @@ margin-bottom: 10%;
                                     border-color: rgb(255, 23, 7);
                                     border-width: 6px;
                                     border-style: groove; 
-                                    margin-left: 60%;
-                                    margin-right: 30%;
-                                    background-color: rgb(107, 221, 0);
+                                    margin-left: 20%;
+                                    margin-right: 60%;
+                                    background-color: rgb(185, 255, 120);
+                                    margin-top: 5%;
                                     
                                     }
         
