@@ -2,7 +2,6 @@
     body {background-color: rgb(0, 153, 145);
     }
 }
- body {background-color:rgb(14, 1, 90);}
 
 .p1{text-align: center;
 font-size: 400%;
@@ -57,7 +56,7 @@ margin-bottom: 10%;
 
             .p5{
                 font-size: 150%;
-                color:rgb(94, 255, 0); 
+                color:rgb(54, 145, 2); 
                 border-color: aqua;
                 border-width: 6px;
                 border-style: groove; 
@@ -70,7 +69,7 @@ margin-bottom: 10%;
 
                 .p6{
                     font-size: 200%;
-                    color:rgb(0, 255, 157); 
+                    color:rgb(2, 128, 80); 
                     border-color: rgb(30, 255, 0);
                     border-width: 6px;
                     border-style: groove; 
@@ -133,5 +132,6 @@ margin-bottom: 10%;
                                     }
         
     
+
 
 
